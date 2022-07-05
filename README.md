@@ -1,4 +1,4 @@
-# Curriculo do Bill Gates
+# Currículo do Bill Gates
 
 **Projeto simples, feito totalmente em HTML.**
 <br>
