@@ -1,6 +1,8 @@
-# Curriculo_Bill_Gates
-Projeto simples, feito totalmente em HTML.
+# Curriculo do Bill Gates
+__Projeto simples, feito totalmente em HTML.__
 <br>
 (Todas as informações contidas no projeto são de minha autoria, e não diz respeito a verdade absoluta).
 <br>
-<strong>O README ainda está sendo feito<strong>
+Segue abaixo um vídeo de como é o projeto por dentro:
+
+
